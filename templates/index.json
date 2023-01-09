@@ -110,20 +110,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "jwellary"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "black-leather-bag",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "t-shirts"
           }
         }
       },
